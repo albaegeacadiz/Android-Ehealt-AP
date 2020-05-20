@@ -2,10 +2,15 @@
 
 Android Ehealt App for academical purpose
 
+
 ·Firebase Realtime Database connection
+
 ·View-ModelView-Model structure
+
 ·Android Fragments
+
 ·Java language
+
 ·Authentification acces with Log In, Register, Recov pass
 
 Authentification Acces Activity
